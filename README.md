@@ -1,4 +1,5 @@
-# NCI Project submission Clothes Line Monitor (Android Development semester 2)
+# NCI Project submission
+# Clothes Line Monitor (Android Development semester 2)
 
 <br><br>
 ***Android Weather Application to notify you when rain is imminent, so that you can contact a neighbour or friend to take in the clothes.
