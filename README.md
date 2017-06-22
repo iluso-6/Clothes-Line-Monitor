@@ -30,3 +30,13 @@ Main activity example 3
 Hour activity
 
 ![alt tag](https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/hour.png?raw=true)
+
+<br><br>
+Settings activity
+
+![alt tag](https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/settings.png?raw=true)
+
+<br><br>
+Push Notification
+
+![alt tag](https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/push_notification.png?raw=true)
