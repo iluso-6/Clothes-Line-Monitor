@@ -1,7 +1,7 @@
 # Clothes Line Monitor
 
 <br><br>
-***Android Weather Application to notify you when rain is immenent, so that you can contact a neighbour or friend to take in the clothes.
+***Android Weather Application to notify you when rain is imminent, so that you can contact a neighbour or friend to take in the clothes.
 This application uses the services of Dark Sky (formally known as forecast.io) Api to give an hourly forcast, the returned weather data is then analysed using a custom formula to give a simplified visual determination of the hourly weather state. 
 A background service may be started to monitor the hourly weather changes, resulting in a notification if rain is due in the coming hour.***
 
