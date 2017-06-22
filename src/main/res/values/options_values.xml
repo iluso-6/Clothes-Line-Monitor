@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="display_hours">
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+    </integer-array>
+    <integer-array name="update_mins">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+    </integer-array>
+</resources>

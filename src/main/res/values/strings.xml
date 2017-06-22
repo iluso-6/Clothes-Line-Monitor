@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="splash_update_info">Getting your location</string>
+    <string name="geocode_url">https://maps.googleapis.com/maps/api/geocode/json?latlng=</string>
+    <string name="geocode_api">AIzaSyBtWX7MZAhjw6E2f0V69nmok8JBxUEi6OQ</string>
+    <string name="description">description</string>
+    <string name="time">time</string>
+
+    <string name="temp">Temp:\u0020\</string>
+    <string name="celcius">°C</string>
+    <string name="wind">Wind:\u0020\</string>
+    <string name="mph">mph</string>
+    <string name="humidity">Humidity:\u0020\</string>
+    <string name="percent">%</string>
+    <string name="rain">Rain probability:\u0020\</string>
+    <string name="cloud">Cloud cover:\u0020\</string>
+    <string name="dew">Dew Point:\u0020\</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="switch_off">Monitor OFF</string>
+    <string name="switch_on">Monitor ON\u0020\</string>
+    <string name="options_title">Settings</string>
+    <string name="textviewHoursTitle">Forecast Display Length</string>
+    <string name="hours_options">%1$d hours</string>
+    <string name="textViewBackgroundTitle">Monitor Weather Update</string>
+    <string name="update_options">%1$d minutes</string>
+
+
+</resources>
