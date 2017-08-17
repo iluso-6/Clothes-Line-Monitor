@@ -7,16 +7,19 @@ This application uses the services of Dark Sky (formally known as forecast.io) A
 A background service may be started to monitor the hourly weather changes, resulting in a notification if rain is due in the coming hour.***
 
 Preview
+<table>
+  <tr>
+    <td><img src="https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap.gif?raw=true" align="left"/></td>
+    <td> <img src="https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap_2.gif?raw=true" align="right"/></td>
 
 <br><br>
 
- <img src="https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap.gif?raw=true" align="left"/>
-
- <img src="https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap_2.gif?raw=true" align="right"/>
+  </tr>
+</table>
 
 <br><br>
 
-
+<nl>
 Splashscreen
 
 ![alt tag](https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/Splash.png?raw=true)
