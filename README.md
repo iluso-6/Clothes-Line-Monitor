@@ -10,6 +10,7 @@ Preview
 <table>
   <tr>
     <td><img src="https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap.gif?raw=true" align="left"/></td>
+    <td width="33%"></td>
     <td> <img src="https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap_2.gif?raw=true" align="right"/
     </td>
 
