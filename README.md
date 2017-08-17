@@ -6,6 +6,13 @@
 This application uses the services of Dark Sky (formally known as forecast.io) Api to give an hourly forcast, the returned weather data is then analysed using a custom formula to give a simplified visual determination of the hourly weather state. 
 A background service may be started to monitor the hourly weather changes, resulting in a notification if rain is due in the coming hour.***
 
+Preview
+<br><br>
+
+![alt tag](https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap.gif?raw=true?raw=true)
+
+<br><br>
+
 Splashscreen
 <br><br>
 
