@@ -9,7 +9,11 @@ A background service may be started to monitor the hourly weather changes, resul
 Preview
 <br><br>
 
-![alt tag](https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap.gif?raw=true?raw=true)
+![alt tag](https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap.gif?raw=true)
+
+<br><br>
+
+![alt tag](https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap_2.gif?raw=true)
 
 <br><br>
 
