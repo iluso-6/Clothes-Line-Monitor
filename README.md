@@ -20,9 +20,9 @@ Preview
 
 <br><br>
 
-<nl>
-Splashscreen
 
+Splashscreen
+<br><br>
 ![alt tag](https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/Splash.png?raw=true)
 
 <br><br>
