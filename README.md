@@ -10,15 +10,14 @@ Preview
 
 <br><br>
 
- <img src="https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap.gif?raw=true" align="left">
+ <img src="https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap.gif?raw=true" align="left"/>
 
- <img src="https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap_2.gif?raw=true" align="right">
-
+ <img src="https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/video_snap_2.gif?raw=true" align="right"/>
 
 <br><br>
+
 
 Splashscreen
-<br><br>
 
 ![alt tag](https://github.com/iluso-6/Clothes-Line-Monitor/blob/master/screenshots/Splash.png?raw=true)
 
